@@ -1,0 +1,7 @@
+Matar a tanos
+Coger el guantalete
+Irse de vacaciones
+
+public static void main (String[] args){
+    syso("Hola Mundo");
+}
